@@ -1,0 +1,7 @@
+image-gallery/
+├── index.html
+├── styles.css
+├── script.js
+├── images/          (Placeholder directory for images)
+├── report.md
+└── README.md
